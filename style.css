@@ -144,6 +144,9 @@ i:hover {
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%);
   }
+  
+  main img {
+    width: 80%;
 }
 
 @media (max-width: 400px) {
